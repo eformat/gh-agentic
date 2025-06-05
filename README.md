@@ -6,6 +6,7 @@ Pre-requisites
 
 - podman
 - github token
+- running openai llm
 
 Setup
 
