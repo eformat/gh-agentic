@@ -103,4 +103,3 @@ The code defines a tool group for testing, which uses the Model Context Protocol
 
 🌴 Stopping MCP server...
 ```
-# gh-agentic
